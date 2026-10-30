@@ -1,4 +1,4 @@
-black==22.10.0
+black==26.10.1
 feedparser==6.0.10 
 flake8==5.0.4
 isort==5.10.1
